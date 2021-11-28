@@ -44,5 +44,6 @@ public class Test01Test {
         Test07 test071 = new Test07();
         test071.printList(integers);
         System.out.println("haha");
+        System.out.println("Hello hot-fix分支");
     }
 }
