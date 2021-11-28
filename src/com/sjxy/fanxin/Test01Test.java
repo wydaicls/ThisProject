@@ -43,5 +43,6 @@ public class Test01Test {
         test07.printList(strings);
         Test07 test071 = new Test07();
         test071.printList(integers);
+        System.out.println("haha");
     }
 }
